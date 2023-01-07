@@ -44,7 +44,9 @@ img{
 
 /* Product Title */
 .product-title {
-  background-color: #f7f7f7;
+  /* background-color: #f7f7f7; */
+  background-color: #000;
+  color: white;
   text-align: center;
   font-size: 22px;
   text-transform: uppercase;
